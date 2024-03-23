@@ -2,7 +2,7 @@
 A dosage tracking application with expanded functionalities
 
 ## Repository Contributors
-* See Contributor's Section
+* See Contributors Section
 
 ## Project Progress
 * Start Date: January 2024
