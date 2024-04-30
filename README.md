@@ -7,6 +7,7 @@ A dosage tracking application with expanded functionalities
 ## Project Progress
 * Start Date: January 2024
 * Halfway Completion: May 11, 2024
+* 75% Completion Late September or Early to Mid-October 2024
 * Expected Completion: Late November or Early December 2024
 
 ## ⚠️⚠️ Warning ⚠️⚠️
